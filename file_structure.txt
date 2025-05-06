@@ -1,0 +1,53 @@
+# Mandatory files
+|- template.Rproj
+|- README.md
+|- .gitignore
+|- file_structure.txt
+
+# R/Python/SAS/Stata/ect scripts. Use archive folder for older scripts that we don't yet want to discard.
+# For more complicated repos with multiple programming languages we could create subfolders for each language.
+|- scripts/
+  |- script1.R
+  |- script2.py
+  |- archive/
+    |- oldscript1.R
+    |- oldscript2.R
+
+# Resource folder for documentation, functions, and startup scripts. Documentation folder should be used
+# for more detailed files that explain the project, for documentation that comes with raw data, or
+# for methodology/papers used or cited by the project.
+|- resources/
+  |- documentation/
+    |- doc1.md
+    |- doc2.md
+  |- fun/
+    |- fun1.R
+    |- fun2.R
+  |- startup_.R
+
+# Data folder for raw, processed, and output data. This should be seperate from resources folder
+# because this folder can become complex in itself and will have subfolders.
+|- data/
+  |- raw/
+    |- DDK/
+      |- COI30_BLOCKS_GEO_10.csv
+      |- COI30_TRACTS_INDEX_10.csv
+    |- data1.csv
+    |- data2.csv
+  |- processed/
+    |- data1_processed.csv
+    |- data2_processed.csv
+  |- output/
+    |- data1_output.csv
+    |- data2_output.csv
+  |- utility/
+    |- data1_utility.csv
+    |- StateFipsUsps.rda
+
+# Plots folder. Use archive folder for older plots that we don't yet want to discard
+|- plots/
+  |- plot1.png
+  |- plot2.png
+  |- archive/
+    |- oldplot1.png
+    |- oldplot2.png
