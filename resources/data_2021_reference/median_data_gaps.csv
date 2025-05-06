@@ -1,0 +1,101 @@
+metro_name,tot_score,white_score,black_score,api_score,hisp_score,W-B gap,W-A gap,W-H gap,VL_score,VH_score,overall_gap
+"Akron, OH",64,69,16,69,58,53,0,11,10,92,82
+"Albany-Schenectady-Troy, NY",77,81,23,85,53,58,-4,28,20,93,73
+"Albuquerque, NM",39,55,34,51,30,22,4,25,6,73,67
+"Allentown-Bethlehem-Easton, PA-NJ",68,77,44,81,36,33,-4,41,11,88,77
+"Atlanta-Sandy Springs-Alpharetta, GA",54,73,36,81,41,37,-8,32,16,93,77
+"Augusta-Richmond County, GA-SC",29,41,17,59,30,24,-18,11,5,78,73
+"Austin-Round Rock-Georgetown, TX",67,82,51,85,43,31,-3,39,22,95,73
+"Bakersfield, CA",14,42,13,47,10,29,-5,32,2,69,67
+"Baltimore-Columbia-Towson, MD",75,85,44,85,64,41,0,21,18,96,78
+"Baton Rouge, LA",48,53,20,56,36,33,-3,18,7,75,68
+"Birmingham-Hoover, AL",45,58,20,83,32,38,-25,26,7,87,80
+"Boise City, ID",56,59,64,76,45,-5,-17,14,28,82,54
+"Boston-Cambridge-Newton, MA-NH",86,91,50,91,47,41,0,44,33,99,66
+"Bridgeport-Stamford-Norwalk, CT",88,95,39,88,50,56,7,45,22,100,78
+"Brownsville-Harlingen, TX",9,19,21,21,9,-2,-2,10,2,36,34
+"Buffalo-Cheektowaga, NY",64,73,17,15,26,56,58,47,8,91,83
+"Cape Coral-Fort Myers, FL",39,50,18,52,28,32,-2,22,12,71,59
+"Charleston-North Charleston, SC",54,63,34,56,39,29,7,24,17,89,72
+"Charlotte-Concord-Gastonia, NC-SC",55,67,39,81,35,28,-14,32,15,90,75
+"Chicago-Naperville-Elgin, IL-IN-WI",65,82,24,82,39,58,0,43,11,95,84
+"Cincinnati, OH-KY-IN",65,70,23,84,41,47,-14,29,16,92,76
+"Cleveland-Elyria, OH",62,75,13,79,25,62,-4,50,4,92,88
+"Colorado Springs, CO",63,71,48,71,51,23,0,20,29,91,62
+"Columbia, SC",48,56,29,59,37,27,-3,19,10,84,74
+"Columbus, OH",64,71,24,81,41,47,-10,30,10,96,86
+"Dallas-Fort Worth-Arlington, TX",51,72,38,82,25,34,-10,47,7,92,85
+"Dayton-Kettering, OH",57,60,10,71,48,50,-11,12,6,88,82
+"Denver-Aurora-Lakewood, CO",72,85,47,78,40,38,7,45,19,94,75
+"Des Moines-West Des Moines, IA",69,76,45,54,40,31,22,36,21,89,68
+"Detroit-Warren-Dearborn, MI",57,69,9,84,31,60,-15,38,4,92,88
+"Durham-Chapel Hill, NC",65,73,42,88,39,31,-15,34,18,94,76
+"El Paso, TX",27,43,32,36,23,11,7,20,6,64,58
+"Fayetteville, NC",31,35,28,35,30,7,0,5,15,57,42
+"Fayetteville-Springdale-Rogers, AR",58,62,58,52,32,4,10,30,20,79,59
+"Fresno, CA",16,48,11,22,11,37,26,37,2,73,71
+"Grand Rapids-Kentwood, MI",63,69,34,65,40,35,4,29,25,87,62
+"Greensboro-High Point, NC",35,49,23,51,24,26,-2,25,10,81,71
+"Greenville-Anderson, SC",49,54,38,67,34,16,-13,20,13,83,70
+"Hartford-East Hartford-Middletown, CT",78,87,41,87,32,46,0,55,13,96,83
+"Houston-The Woodlands-Sugar Land, TX",43,73,31,77,22,42,-4,51,5,90,85
+"Indianapolis-Carmel-Anderson, IN",61,69,24,70,31,45,-1,38,9,92,83
+"Jackson, MS",38,59,15,82,39,44,-23,20,2,82,80
+"Jacksonville, FL",50,64,24,62,46,40,2,18,13,89,76
+"Kansas City, MO-KS",66,72,24,76,37,48,-4,35,10,93,83
+"Knoxville, TN",50,51,26,79,46,25,-28,5,19,86,67
+"Lakeland-Winter Haven, FL",26,33,23,33,24,10,0,9,11,57,46
+"Las Vegas-Henderson-Paradise, NV",38,59,24,57,19,35,2,40,4,73,69
+"Little Rock-North Little Rock-Conway, AR",43,55,25,66,28,30,-11,27,11,80,69
+"Los Angeles-Long Beach-Anaheim, CA",44,85,24,72,26,61,13,59,8,93,85
+"Louisville/Jefferson County, KY-IN",51,60,22,64,39,38,-4,21,13,87,74
+"Madison, WI",78,78,70,81,69,8,-3,9,49,92,43
+"McAllen-Edinburg-Mission, TX",6,17,30,45,6,-13,-28,11,1,39,38
+"Memphis, TN-MS-AR",27,62,10,77,19,52,-15,43,2,83,81
+"Miami-Fort Lauderdale-Pompano Beach, FL",47,71,25,70,46,46,1,25,10,88,78
+"Milwaukee-Waukesha, WI",63,82,8,57,23,74,25,59,3,93,90
+"Minneapolis-St. Paul-Bloomington, MN-WI",77,81,51,62,63,30,19,18,32,94,62
+"Modesto, CA",32,42,28,36,24,14,6,18,6,60,54
+"Nashville-Davidson--Murfreesboro--Franklin, TN",57,66,34,70,36,32,-4,30,21,94,73
+"New Haven-Milford, CT",68,85,32,77,33,53,8,52,16,95,79
+"New Orleans-Metairie, LA",37,58,22,41,32,36,17,26,10,80,70
+"New York-Newark-Jersey City, NY-NJ-PA",65,86,32,77,38,54,9,48,12,98,86
+"North Port-Sarasota-Bradenton, FL",58,63,23,66,37,40,-3,26,12,82,70
+"Ogden-Clearfield, UT",66,69,67,69,54,2,0,15,38,85,47
+"Oklahoma City, OK",47,57,23,68,18,34,-11,39,4,81,77
+"Omaha-Council Bluffs, NE-IA",67,74,27,60,35,47,14,39,15,92,77
+"Orlando-Kissimmee-Sanford, FL",49,63,23,63,41,40,0,22,12,83,71
+"Oxnard-Thousand Oaks-Ventura, CA",61,80,61,75,37,19,5,43,10,92,82
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",69,85,26,81,36,59,4,49,9,96,87
+"Phoenix-Mesa-Chandler, AZ",44,67,30,74,22,37,-7,45,6,85,79
+"Pittsburgh, PA",67,72,27,86,63,45,-14,9,24,94,70
+"Portland-Vancouver-Hillsboro, OR-WA",68,71,49,78,57,22,-7,14,35,94,59
+"Poughkeepsie-Newburgh-Middletown, NY",73,74,62,76,68,12,-2,6,21,89,68
+"Providence-Warwick, RI-MA",67,77,29,67,25,48,10,52,14,90,76
+"Provo-Orem, UT",71,75,71,68,66,4,7,9,52,84,32
+"Raleigh-Cary, NC",72,80,54,93,55,26,-13,25,35,95,60
+"Richmond, VA",62,78,34,87,49,44,-9,29,12,93,81
+"Riverside-San Bernardino-Ontario, CA",32,51,27,63,26,24,-12,25,9,75,66
+"Rochester, NY",65,72,13,76,36,59,-4,36,6,92,86
+"Sacramento-Roseville-Folsom, CA",58,68,32,55,41,36,13,27,14,90,76
+"Salt Lake City, UT",65,73,39,43,38,34,30,35,22,87,65
+"San Antonio-New Braunfels, TX",41,64,35,56,29,29,8,35,5,83,78
+"San Diego-Chula Vista-Carlsbad, CA",61,78,46,80,42,32,-2,36,16,95,79
+"San Francisco-Oakland-Berkeley, CA",84,94,58,90,59,36,4,35,27,99,72
+"San Jose-Sunnyvale-Santa Clara, CA",87,95,83,93,64,12,2,31,39,100,61
+"Seattle-Tacoma-Bellevue, WA",76,80,53,86,61,27,-6,19,38,98,60
+"Springfield, MA",61,75,25,62,25,50,13,50,11,89,78
+"St. Louis, MO-IL",63,71,20,86,63,51,-15,8,10,91,81
+"Stockton, CA",36,48,28,48,28,20,0,20,4,71,67
+"Syracuse, NY",59,66,5,44,40,61,22,26,5,88,83
+"Tampa-St. Petersburg-Clearwater, FL",49,59,32,64,40,27,-5,19,14,82,68
+"Toledo, OH",54,58,7,61,46,51,-3,12,2,85,83
+"Tucson, AZ",35,62,27,64,21,35,-2,41,5,79,74
+"Tulsa, OK",41,48,14,54,17,34,-6,31,5,73,68
+"Urban Honolulu, HI",64,67,59,62,63,8,5,4,33,89,56
+"Virginia Beach-Norfolk-Newport News, VA-NC",58,68,38,71,55,30,-3,13,20,87,67
+"Visalia, CA",13,25,14,13,9,11,12,16,3,44,41
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",80,90,65,92,65,25,-2,25,33,99,66
+"Wichita, KS",51,62,22,55,23,40,7,39,7,81,74
+"Winston-Salem, NC",37,44,22,59,25,22,-15,19,8,74,66
+"Worcester, MA-CT",75,80,54,91,44,26,-11,36,35,93,58
