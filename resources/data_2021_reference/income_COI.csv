@@ -1,0 +1,501 @@
+﻿metro_name,c5_coi_met_lbl,kfrd
+"Akron, OH",Very Low,30528
+"Akron, OH",Low,36992
+"Akron, OH",Moderate,40960
+"Akron, OH",High,46449
+"Akron, OH",Very High,53782
+"Albany-Schenectady-Troy, NY",Very Low,35690
+"Albany-Schenectady-Troy, NY",Low,43669
+"Albany-Schenectady-Troy, NY",Moderate,46449
+"Albany-Schenectady-Troy, NY",High,50771
+"Albany-Schenectady-Troy, NY",Very High,55334
+"Albuquerque, NM",Very Low,31813
+"Albuquerque, NM",Low,35690
+"Albuquerque, NM",Moderate,39627
+"Albuquerque, NM",High,40960
+"Albuquerque, NM",Very High,45050
+"Allentown-Bethlehem-Easton, PA-NJ",Very Low,35690
+"Allentown-Bethlehem-Easton, PA-NJ",Low,43669
+"Allentown-Bethlehem-Easton, PA-NJ",Moderate,49306
+"Allentown-Bethlehem-Easton, PA-NJ",High,49306
+"Allentown-Bethlehem-Easton, PA-NJ",Very High,52262
+"Atlanta-Sandy Springs-Alpharetta, GA",Very Low,29242
+"Atlanta-Sandy Springs-Alpharetta, GA",Low,33101
+"Atlanta-Sandy Springs-Alpharetta, GA",Moderate,36992
+"Atlanta-Sandy Springs-Alpharetta, GA",High,42306
+"Atlanta-Sandy Springs-Alpharetta, GA",Very High,47867
+"Augusta-Richmond County, GA-SC",Very Low,29242
+"Augusta-Richmond County, GA-SC",Low,31813
+"Augusta-Richmond County, GA-SC",Moderate,33101
+"Augusta-Richmond County, GA-SC",High,36992
+"Augusta-Richmond County, GA-SC",Very High,47867
+"Austin-Round Rock-Georgetown, TX",Very Low,35690
+"Austin-Round Rock-Georgetown, TX",Low,40960
+"Austin-Round Rock-Georgetown, TX",Moderate,43669
+"Austin-Round Rock-Georgetown, TX",High,46449
+"Austin-Round Rock-Georgetown, TX",Very High,53782
+"Bakersfield, CA",Very Low,38305
+"Bakersfield, CA",Low,42306
+"Bakersfield, CA",Moderate,40960
+"Bakersfield, CA",High,45050
+"Bakersfield, CA",Very High,50771
+"Baltimore-Columbia-Towson, MD",Very Low,27957
+"Baltimore-Columbia-Towson, MD",Low,36992
+"Baltimore-Columbia-Towson, MD",Moderate,42306
+"Baltimore-Columbia-Towson, MD",High,46449
+"Baltimore-Columbia-Towson, MD",Very High,53782
+"Baton Rouge, LA",Very Low,31813
+"Baton Rouge, LA",Low,38305
+"Baton Rouge, LA",Moderate,42306
+"Baton Rouge, LA",High,43669
+"Baton Rouge, LA",Very High,43669
+"Birmingham-Hoover, AL",Very Low,26675
+"Birmingham-Hoover, AL",Low,35690
+"Birmingham-Hoover, AL",Moderate,36992
+"Birmingham-Hoover, AL",High,42306
+"Birmingham-Hoover, AL",Very High,50771
+"Boise City, ID",Very Low,38305
+"Boise City, ID",Low,42306
+"Boise City, ID",Moderate,45050
+"Boise City, ID",High,45050
+"Boise City, ID",Very High,45050
+"Boston-Cambridge-Newton, MA-NH",Very Low,39627
+"Boston-Cambridge-Newton, MA-NH",Low,45050
+"Boston-Cambridge-Newton, MA-NH",Moderate,49306
+"Boston-Cambridge-Newton, MA-NH",High,53782
+"Boston-Cambridge-Newton, MA-NH",Very High,58542
+"Bridgeport-Stamford-Norwalk, CT",Very Low,35690
+"Bridgeport-Stamford-Norwalk, CT",Low,43669
+"Bridgeport-Stamford-Norwalk, CT",Moderate,55334
+"Bridgeport-Stamford-Norwalk, CT",High,55334
+"Bridgeport-Stamford-Norwalk, CT",Very High,56921
+"Brownsville-Harlingen, TX",Very Low,40960
+"Brownsville-Harlingen, TX",Low,42306
+"Brownsville-Harlingen, TX",Moderate,40960
+"Brownsville-Harlingen, TX",High,45050
+"Brownsville-Harlingen, TX",Very High,45050
+"Buffalo-Cheektowaga, NY",Very Low,31813
+"Buffalo-Cheektowaga, NY",Low,40960
+"Buffalo-Cheektowaga, NY",Moderate,46449
+"Buffalo-Cheektowaga, NY",High,52262
+"Buffalo-Cheektowaga, NY",Very High,53782
+"Cape Coral-Fort Myers, FL",Very Low,31813
+"Cape Coral-Fort Myers, FL",Low,35690
+"Cape Coral-Fort Myers, FL",Moderate,38305
+"Cape Coral-Fort Myers, FL",High,40960
+"Cape Coral-Fort Myers, FL",Very High,43669
+"Charleston-North Charleston, SC",Very Low,34395
+"Charleston-North Charleston, SC",Low,35690
+"Charleston-North Charleston, SC",Moderate,38305
+"Charleston-North Charleston, SC",High,35690
+"Charleston-North Charleston, SC",Very High,40960
+"Charlotte-Concord-Gastonia, NC-SC",Very Low,29242
+"Charlotte-Concord-Gastonia, NC-SC",Low,31813
+"Charlotte-Concord-Gastonia, NC-SC",Moderate,36992
+"Charlotte-Concord-Gastonia, NC-SC",High,38305
+"Charlotte-Concord-Gastonia, NC-SC",Very High,46449
+"Chicago-Naperville-Elgin, IL-IN-WI",Very Low,31813
+"Chicago-Naperville-Elgin, IL-IN-WI",Low,40960
+"Chicago-Naperville-Elgin, IL-IN-WI",Moderate,46449
+"Chicago-Naperville-Elgin, IL-IN-WI",High,49306
+"Chicago-Naperville-Elgin, IL-IN-WI",Very High,53782
+"Cincinnati, OH-KY-IN",Very Low,29242
+"Cincinnati, OH-KY-IN",Low,35690
+"Cincinnati, OH-KY-IN",Moderate,39627
+"Cincinnati, OH-KY-IN",High,43669
+"Cincinnati, OH-KY-IN",Very High,47867
+"Cleveland-Elyria, OH",Very Low,27957
+"Cleveland-Elyria, OH",Low,36992
+"Cleveland-Elyria, OH",Moderate,42306
+"Cleveland-Elyria, OH",High,47867
+"Cleveland-Elyria, OH",Very High,52262
+"Colorado Springs, CO",Very Low,35690
+"Colorado Springs, CO",Low,39627
+"Colorado Springs, CO",Moderate,43669
+"Colorado Springs, CO",High,46449
+"Colorado Springs, CO",Very High,52262
+"Columbia, SC",Very Low,30528
+"Columbia, SC",Low,33101
+"Columbia, SC",Moderate,35690
+"Columbia, SC",High,35690
+"Columbia, SC",Very High,43669
+"Columbus, OH",Very Low,29242
+"Columbus, OH",Low,36992
+"Columbus, OH",Moderate,40960
+"Columbus, OH",High,45050
+"Columbus, OH",Very High,49306
+"Dallas-Fort Worth-Arlington, TX",Very Low,33101
+"Dallas-Fort Worth-Arlington, TX",Low,39627
+"Dallas-Fort Worth-Arlington, TX",Moderate,42306
+"Dallas-Fort Worth-Arlington, TX",High,45050
+"Dallas-Fort Worth-Arlington, TX",Very High,52262
+"Dayton-Kettering, OH",Very Low,27957
+"Dayton-Kettering, OH",Low,35690
+"Dayton-Kettering, OH",Moderate,39627
+"Dayton-Kettering, OH",High,43669
+"Dayton-Kettering, OH",Very High,45050
+"Denver-Aurora-Lakewood, CO",Very Low,36992
+"Denver-Aurora-Lakewood, CO",Low,42306
+"Denver-Aurora-Lakewood, CO",Moderate,46449
+"Denver-Aurora-Lakewood, CO",High,49306
+"Denver-Aurora-Lakewood, CO",Very High,52262
+"Des Moines-West Des Moines, IA",Very Low,39627
+"Des Moines-West Des Moines, IA",Low,46449
+"Des Moines-West Des Moines, IA",Moderate,52262
+"Des Moines-West Des Moines, IA",High,53782
+"Des Moines-West Des Moines, IA",Very High,50771
+"Detroit-Warren-Dearborn, MI",Very Low,27957
+"Detroit-Warren-Dearborn, MI",Low,38305
+"Detroit-Warren-Dearborn, MI",Moderate,42306
+"Detroit-Warren-Dearborn, MI",High,45050
+"Detroit-Warren-Dearborn, MI",Very High,49306
+"Durham-Chapel Hill, NC",Very Low,27957
+"Durham-Chapel Hill, NC",Low,34395
+"Durham-Chapel Hill, NC",Moderate,33101
+"Durham-Chapel Hill, NC",High,38305
+"Durham-Chapel Hill, NC",Very High,43669
+"El Paso, TX",Very Low,39627
+"El Paso, TX",Low,40960
+"El Paso, TX",Moderate,42306
+"El Paso, TX",High,42306
+"El Paso, TX",Very High,47867
+"Fayetteville, NC",Very Low,29242
+"Fayetteville, NC",Low,34395
+"Fayetteville, NC",Moderate,33101
+"Fayetteville, NC",High,33101
+"Fayetteville, NC",Very High,35690
+"Fayetteville-Springdale-Rogers, AR",Very Low,38305
+"Fayetteville-Springdale-Rogers, AR",Low,40960
+"Fayetteville-Springdale-Rogers, AR",Moderate,42306
+"Fayetteville-Springdale-Rogers, AR",High,40960
+"Fayetteville-Springdale-Rogers, AR",Very High,43669
+"Fresno, CA",Very Low,33101
+"Fresno, CA",Low,35690
+"Fresno, CA",Moderate,38305
+"Fresno, CA",High,40960
+"Fresno, CA",Very High,50771
+"Grand Rapids-Kentwood, MI",Very Low,34395
+"Grand Rapids-Kentwood, MI",Low,38305
+"Grand Rapids-Kentwood, MI",Moderate,40960
+"Grand Rapids-Kentwood, MI",High,49306
+"Grand Rapids-Kentwood, MI",Very High,49306
+"Greensboro-High Point, NC",Very Low,27957
+"Greensboro-High Point, NC",Low,31813
+"Greensboro-High Point, NC",Moderate,33101
+"Greensboro-High Point, NC",High,36992
+"Greensboro-High Point, NC",Very High,42306
+"Greenville-Anderson, SC",Very Low,29242
+"Greenville-Anderson, SC",Low,33101
+"Greenville-Anderson, SC",Moderate,35690
+"Greenville-Anderson, SC",High,38305
+"Greenville-Anderson, SC",Very High,42306
+"Hartford-East Hartford-Middletown, CT",Very Low,34395
+"Hartford-East Hartford-Middletown, CT",Low,40960
+"Hartford-East Hartford-Middletown, CT",Moderate,46449
+"Hartford-East Hartford-Middletown, CT",High,50771
+"Hartford-East Hartford-Middletown, CT",Very High,52262
+"Houston-The Woodlands-Sugar Land, TX",Very Low,38305
+"Houston-The Woodlands-Sugar Land, TX",Low,42306
+"Houston-The Woodlands-Sugar Land, TX",Moderate,45050
+"Houston-The Woodlands-Sugar Land, TX",High,49306
+"Houston-The Woodlands-Sugar Land, TX",Very High,52262
+"Indianapolis-Carmel-Anderson, IN",Very Low,29242
+"Indianapolis-Carmel-Anderson, IN",Low,35690
+"Indianapolis-Carmel-Anderson, IN",Moderate,39627
+"Indianapolis-Carmel-Anderson, IN",High,43669
+"Indianapolis-Carmel-Anderson, IN",Very High,49306
+"Jackson, MS",Very Low,29242
+"Jackson, MS",Low,33101
+"Jackson, MS",Moderate,34395
+"Jackson, MS",High,35690
+"Jackson, MS",Very High,45050
+"Jacksonville, FL",Very Low,30528
+"Jacksonville, FL",Low,33101
+"Jacksonville, FL",Moderate,38305
+"Jacksonville, FL",High,38305
+"Jacksonville, FL",Very High,40960
+"Kansas City, MO-KS",Very Low,31813
+"Kansas City, MO-KS",Low,42306
+"Kansas City, MO-KS",Moderate,45050
+"Kansas City, MO-KS",High,49306
+"Kansas City, MO-KS",Very High,53782
+"Knoxville, TN",Very Low,30528
+"Knoxville, TN",Low,34395
+"Knoxville, TN",Moderate,36992
+"Knoxville, TN",High,35690
+"Knoxville, TN",Very High,43669
+"Lakeland-Winter Haven, FL",Very Low,31813
+"Lakeland-Winter Haven, FL",Low,33101
+"Lakeland-Winter Haven, FL",Moderate,35690
+"Lakeland-Winter Haven, FL",High,36992
+"Lakeland-Winter Haven, FL",Very High,42306
+"Las Vegas-Henderson-Paradise, NV",Very Low,33101
+"Las Vegas-Henderson-Paradise, NV",Low,36992
+"Las Vegas-Henderson-Paradise, NV",Moderate,39627
+"Las Vegas-Henderson-Paradise, NV",High,43669
+"Las Vegas-Henderson-Paradise, NV",Very High,46449
+"Little Rock-North Little Rock-Conway, AR",Very Low,29242
+"Little Rock-North Little Rock-Conway, AR",Low,35690
+"Little Rock-North Little Rock-Conway, AR",Moderate,38305
+"Little Rock-North Little Rock-Conway, AR",High,42306
+"Little Rock-North Little Rock-Conway, AR",Very High,39627
+"Los Angeles-Long Beach-Anaheim, CA",Very Low,36992
+"Los Angeles-Long Beach-Anaheim, CA",Low,39627
+"Los Angeles-Long Beach-Anaheim, CA",Moderate,43669
+"Los Angeles-Long Beach-Anaheim, CA",High,49306
+"Los Angeles-Long Beach-Anaheim, CA",Very High,53782
+"Louisville/Jefferson County, KY-IN",Very Low,29242
+"Louisville/Jefferson County, KY-IN",Low,35690
+"Louisville/Jefferson County, KY-IN",Moderate,39627
+"Louisville/Jefferson County, KY-IN",High,39627
+"Louisville/Jefferson County, KY-IN",Very High,47867
+"Madison, WI",Very Low,39627
+"Madison, WI",Low,43669
+"Madison, WI",Moderate,45050
+"Madison, WI",High,50771
+"Madison, WI",Very High,50771
+"McAllen-Edinburg-Mission, TX",Very Low,42306
+"McAllen-Edinburg-Mission, TX",Low,40960
+"McAllen-Edinburg-Mission, TX",Moderate,42306
+"McAllen-Edinburg-Mission, TX",High,43669
+"McAllen-Edinburg-Mission, TX",Very High,45050
+"Memphis, TN-MS-AR",Very Low,24118
+"Memphis, TN-MS-AR",Low,29242
+"Memphis, TN-MS-AR",Moderate,34395
+"Memphis, TN-MS-AR",High,36992
+"Memphis, TN-MS-AR",Very High,43669
+"Miami-Fort Lauderdale-Pompano Beach, FL",Very Low,30528
+"Miami-Fort Lauderdale-Pompano Beach, FL",Low,36992
+"Miami-Fort Lauderdale-Pompano Beach, FL",Moderate,42306
+"Miami-Fort Lauderdale-Pompano Beach, FL",High,46449
+"Miami-Fort Lauderdale-Pompano Beach, FL",Very High,50771
+"Milwaukee-Waukesha, WI",Very Low,27957
+"Milwaukee-Waukesha, WI",Low,35690
+"Milwaukee-Waukesha, WI",Moderate,45050
+"Milwaukee-Waukesha, WI",High,47867
+"Milwaukee-Waukesha, WI",Very High,52262
+"Minneapolis-St. Paul-Bloomington, MN-WI",Very Low,39627
+"Minneapolis-St. Paul-Bloomington, MN-WI",Low,49306
+"Minneapolis-St. Paul-Bloomington, MN-WI",Moderate,50771
+"Minneapolis-St. Paul-Bloomington, MN-WI",High,52262
+"Minneapolis-St. Paul-Bloomington, MN-WI",Very High,55334
+"Modesto, CA",Very Low,35690
+"Modesto, CA",Low,39627
+"Modesto, CA",Moderate,40960
+"Modesto, CA",High,43669
+"Modesto, CA",Very High,47867
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Very Low,33101
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Low,36992
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Moderate,39627
+"Nashville-Davidson--Murfreesboro--Franklin, TN",High,42306
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Very High,47867
+"New Haven-Milford, CT",Very Low,30528
+"New Haven-Milford, CT",Low,36992
+"New Haven-Milford, CT",Moderate,45050
+"New Haven-Milford, CT",High,50771
+"New Haven-Milford, CT",Very High,52262
+"New Orleans-Metairie, LA",Very Low,29242
+"New Orleans-Metairie, LA",Low,35690
+"New Orleans-Metairie, LA",Moderate,39627
+"New Orleans-Metairie, LA",High,42306
+"New Orleans-Metairie, LA",Very High,46449
+"New York-Newark-Jersey City, NY-NJ-PA",Very Low,35690
+"New York-Newark-Jersey City, NY-NJ-PA",Low,40960
+"New York-Newark-Jersey City, NY-NJ-PA",Moderate,49306
+"New York-Newark-Jersey City, NY-NJ-PA",High,53782
+"New York-Newark-Jersey City, NY-NJ-PA",Very High,58542
+"North Port-Sarasota-Bradenton, FL",Very Low,27957
+"North Port-Sarasota-Bradenton, FL",Low,36992
+"North Port-Sarasota-Bradenton, FL",Moderate,38305
+"North Port-Sarasota-Bradenton, FL",High,42306
+"North Port-Sarasota-Bradenton, FL",Very High,45050
+"Ogden-Clearfield, UT",Very Low,40960
+"Ogden-Clearfield, UT",Low,46449
+"Ogden-Clearfield, UT",Moderate,49306
+"Ogden-Clearfield, UT",High,52262
+"Ogden-Clearfield, UT",Very High,58542
+"Oklahoma City, OK",Very Low,33101
+"Oklahoma City, OK",Low,39627
+"Oklahoma City, OK",Moderate,43669
+"Oklahoma City, OK",High,47867
+"Oklahoma City, OK",Very High,50771
+"Omaha-Council Bluffs, NE-IA",Very Low,34395
+"Omaha-Council Bluffs, NE-IA",Low,45050
+"Omaha-Council Bluffs, NE-IA",Moderate,50771
+"Omaha-Council Bluffs, NE-IA",High,53782
+"Omaha-Council Bluffs, NE-IA",Very High,56921
+"Orlando-Kissimmee-Sanford, FL",Very Low,33101
+"Orlando-Kissimmee-Sanford, FL",Low,36992
+"Orlando-Kissimmee-Sanford, FL",Moderate,39627
+"Orlando-Kissimmee-Sanford, FL",High,40960
+"Orlando-Kissimmee-Sanford, FL",Very High,47867
+"Oxnard-Thousand Oaks-Ventura, CA",Very Low,38305
+"Oxnard-Thousand Oaks-Ventura, CA",Low,39627
+"Oxnard-Thousand Oaks-Ventura, CA",Moderate,43669
+"Oxnard-Thousand Oaks-Ventura, CA",High,46449
+"Oxnard-Thousand Oaks-Ventura, CA",Very High,52262
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Very Low,30528
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Low,38305
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Moderate,43669
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",High,50771
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Very High,56921
+"Phoenix-Mesa-Chandler, AZ",Very Low,33101
+"Phoenix-Mesa-Chandler, AZ",Low,36992
+"Phoenix-Mesa-Chandler, AZ",Moderate,40960
+"Phoenix-Mesa-Chandler, AZ",High,46449
+"Phoenix-Mesa-Chandler, AZ",Very High,50771
+"Pittsburgh, PA",Very Low,38305
+"Pittsburgh, PA",Low,45050
+"Pittsburgh, PA",Moderate,47867
+"Pittsburgh, PA",High,50771
+"Pittsburgh, PA",Very High,55334
+"Portland-Vancouver-Hillsboro, OR-WA",Very Low,38305
+"Portland-Vancouver-Hillsboro, OR-WA",Low,40960
+"Portland-Vancouver-Hillsboro, OR-WA",Moderate,42306
+"Portland-Vancouver-Hillsboro, OR-WA",High,45050
+"Portland-Vancouver-Hillsboro, OR-WA",Very High,49306
+"Poughkeepsie-Newburgh-Middletown, NY",Very Low,35690
+"Poughkeepsie-Newburgh-Middletown, NY",Low,38305
+"Poughkeepsie-Newburgh-Middletown, NY",Moderate,45050
+"Poughkeepsie-Newburgh-Middletown, NY",High,47867
+"Poughkeepsie-Newburgh-Middletown, NY",Very High,50771
+"Providence-Warwick, RI-MA",Very Low,36992
+"Providence-Warwick, RI-MA",Low,40960
+"Providence-Warwick, RI-MA",Moderate,45050
+"Providence-Warwick, RI-MA",High,46449
+"Providence-Warwick, RI-MA",Very High,49306
+"Provo-Orem, UT",Very Low,45050
+"Provo-Orem, UT",Low,50771
+"Provo-Orem, UT",Moderate,49306
+"Provo-Orem, UT",High,56921
+"Provo-Orem, UT",Very High,58542
+"Raleigh-Cary, NC",Very Low,33101
+"Raleigh-Cary, NC",Low,36992
+"Raleigh-Cary, NC",Moderate,39627
+"Raleigh-Cary, NC",High,40960
+"Raleigh-Cary, NC",Very High,47867
+"Richmond, VA",Very Low,27957
+"Richmond, VA",Low,35690
+"Richmond, VA",Moderate,40960
+"Richmond, VA",High,45050
+"Richmond, VA",Very High,55334
+"Riverside-San Bernardino-Ontario, CA",Very Low,35690
+"Riverside-San Bernardino-Ontario, CA",Low,38305
+"Riverside-San Bernardino-Ontario, CA",Moderate,40960
+"Riverside-San Bernardino-Ontario, CA",High,43669
+"Riverside-San Bernardino-Ontario, CA",Very High,47867
+"Rochester, NY",Very Low,29242
+"Rochester, NY",Low,42306
+"Rochester, NY",Moderate,43669
+"Rochester, NY",High,46449
+"Rochester, NY",Very High,50771
+"Sacramento-Roseville-Folsom, CA",Very Low,38305
+"Sacramento-Roseville-Folsom, CA",Low,40960
+"Sacramento-Roseville-Folsom, CA",Moderate,45050
+"Sacramento-Roseville-Folsom, CA",High,50771
+"Sacramento-Roseville-Folsom, CA",Very High,52262
+"Salt Lake City, UT",Very Low,40960
+"Salt Lake City, UT",Low,43669
+"Salt Lake City, UT",Moderate,50771
+"Salt Lake City, UT",High,52262
+"Salt Lake City, UT",Very High,56921
+"San Antonio-New Braunfels, TX",Very Low,35690
+"San Antonio-New Braunfels, TX",Low,38305
+"San Antonio-New Braunfels, TX",Moderate,42306
+"San Antonio-New Braunfels, TX",High,45050
+"San Antonio-New Braunfels, TX",Very High,49306
+"San Diego-Chula Vista-Carlsbad, CA",Very Low,38305
+"San Diego-Chula Vista-Carlsbad, CA",Low,40960
+"San Diego-Chula Vista-Carlsbad, CA",Moderate,45050
+"San Diego-Chula Vista-Carlsbad, CA",High,47867
+"San Diego-Chula Vista-Carlsbad, CA",Very High,53782
+"San Francisco-Oakland-Berkeley, CA",Very Low,39627
+"San Francisco-Oakland-Berkeley, CA",Low,47867
+"San Francisco-Oakland-Berkeley, CA",Moderate,49306
+"San Francisco-Oakland-Berkeley, CA",High,55334
+"San Francisco-Oakland-Berkeley, CA",Very High,56921
+"San Jose-Sunnyvale-Santa Clara, CA",Very Low,43669
+"San Jose-Sunnyvale-Santa Clara, CA",Low,47867
+"San Jose-Sunnyvale-Santa Clara, CA",Moderate,52262
+"San Jose-Sunnyvale-Santa Clara, CA",High,52262
+"San Jose-Sunnyvale-Santa Clara, CA",Very High,55334
+"Seattle-Tacoma-Bellevue, WA",Very Low,39627
+"Seattle-Tacoma-Bellevue, WA",Low,43669
+"Seattle-Tacoma-Bellevue, WA",Moderate,45050
+"Seattle-Tacoma-Bellevue, WA",High,47867
+"Seattle-Tacoma-Bellevue, WA",Very High,53782
+"Springfield, MA",Very Low,31813
+"Springfield, MA",Low,39627
+"Springfield, MA",Moderate,43669
+"Springfield, MA",High,45050
+"Springfield, MA",Very High,49306
+"St. Louis, MO-IL",Very Low,29242
+"St. Louis, MO-IL",Low,39627
+"St. Louis, MO-IL",Moderate,43669
+"St. Louis, MO-IL",High,47867
+"St. Louis, MO-IL",Very High,52262
+"Stockton, CA",Very Low,35690
+"Stockton, CA",Low,39627
+"Stockton, CA",Moderate,42306
+"Stockton, CA",High,45050
+"Stockton, CA",Very High,45050
+"Syracuse, NY",Very Low,30528
+"Syracuse, NY",Low,38305
+"Syracuse, NY",Moderate,43669
+"Syracuse, NY",High,45050
+"Syracuse, NY",Very High,47867
+"Tampa-St. Petersburg-Clearwater, FL",Very Low,31813
+"Tampa-St. Petersburg-Clearwater, FL",Low,35690
+"Tampa-St. Petersburg-Clearwater, FL",Moderate,39627
+"Tampa-St. Petersburg-Clearwater, FL",High,39627
+"Tampa-St. Petersburg-Clearwater, FL",Very High,43669
+"Toledo, OH",Very Low,29242
+"Toledo, OH",Low,38305
+"Toledo, OH",Moderate,42306
+"Toledo, OH",High,46449
+"Toledo, OH",Very High,52262
+"Tucson, AZ",Very Low,31813
+"Tucson, AZ",Low,35690
+"Tucson, AZ",Moderate,38305
+"Tucson, AZ",High,42306
+"Tucson, AZ",Very High,46449
+"Tulsa, OK",Very Low,33101
+"Tulsa, OK",Low,39627
+"Tulsa, OK",Moderate,42306
+"Tulsa, OK",High,45050
+"Tulsa, OK",Very High,49306
+"Urban Honolulu, HI",Very Low,40960
+"Urban Honolulu, HI",Low,46449
+"Urban Honolulu, HI",Moderate,43669
+"Urban Honolulu, HI",High,46449
+"Urban Honolulu, HI",Very High,50771
+"Virginia Beach-Norfolk-Newport News, VA-NC",Very Low,30528
+"Virginia Beach-Norfolk-Newport News, VA-NC",Low,35690
+"Virginia Beach-Norfolk-Newport News, VA-NC",Moderate,36992
+"Virginia Beach-Norfolk-Newport News, VA-NC",High,40960
+"Virginia Beach-Norfolk-Newport News, VA-NC",Very High,45050
+"Visalia, CA",Very Low,36992
+"Visalia, CA",Low,36992
+"Visalia, CA",Moderate,38305
+"Visalia, CA",High,40960
+"Visalia, CA",Very High,40960
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Very Low,38305
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Low,42306
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Moderate,45050
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",High,52262
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Very High,56921
+"Wichita, KS",Very Low,34395
+"Wichita, KS",Low,39627
+"Wichita, KS",Moderate,43669
+"Wichita, KS",High,49306
+"Wichita, KS",Very High,53782
+"Winston-Salem, NC",Very Low,27957
+"Winston-Salem, NC",Low,31813
+"Winston-Salem, NC",Moderate,34395
+"Winston-Salem, NC",High,39627
+"Winston-Salem, NC",Very High,40960
+"Worcester, MA-CT",Very Low,36992
+"Worcester, MA-CT",Low,40960
+"Worcester, MA-CT",Moderate,45050
+"Worcester, MA-CT",High,50771
+"Worcester, MA-CT",Very High,52262

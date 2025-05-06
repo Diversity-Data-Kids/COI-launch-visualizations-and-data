@@ -1,0 +1,501 @@
+﻿metro_name,c5_coi_met_lbl,lifex
+"Akron, OH",Very Low,72.40000152588
+"Akron, OH",Low,76.00000000000
+"Akron, OH",Moderate,77.59999847412
+"Akron, OH",High,79.59999847412
+"Akron, OH",Very High,80.90000152588
+"Albany-Schenectady-Troy, NY",Very Low,75.59999847412
+"Albany-Schenectady-Troy, NY",Low,80.00000000000
+"Albany-Schenectady-Troy, NY",Moderate,80.50000000000
+"Albany-Schenectady-Troy, NY",High,81.40000152588
+"Albany-Schenectady-Troy, NY",Very High,83.30000305176
+"Albuquerque, NM",Very Low,75.90000152588
+"Albuquerque, NM",Low,77.19999694824
+"Albuquerque, NM",Moderate,78.59999847412
+"Albuquerque, NM",High,80.69999694824
+"Albuquerque, NM",Very High,80.40000152588
+"Allentown-Bethlehem-Easton, PA-NJ",Very Low,76.30000305176
+"Allentown-Bethlehem-Easton, PA-NJ",Low,78.80000305176
+"Allentown-Bethlehem-Easton, PA-NJ",Moderate,79.80000305176
+"Allentown-Bethlehem-Easton, PA-NJ",High,81.90000152588
+"Allentown-Bethlehem-Easton, PA-NJ",Very High,81.59999847412
+"Atlanta-Sandy Springs-Alpharetta, GA",Very Low,74.69999694824
+"Atlanta-Sandy Springs-Alpharetta, GA",Low,76.50000000000
+"Atlanta-Sandy Springs-Alpharetta, GA",Moderate,77.59999847412
+"Atlanta-Sandy Springs-Alpharetta, GA",High,79.30000305176
+"Atlanta-Sandy Springs-Alpharetta, GA",Very High,81.00000000000
+"Augusta-Richmond County, GA-SC",Very Low,72.59999847412
+"Augusta-Richmond County, GA-SC",Low,74.80000305176
+"Augusta-Richmond County, GA-SC",Moderate,74.90000152588
+"Augusta-Richmond County, GA-SC",High,78.90000152588
+"Augusta-Richmond County, GA-SC",Very High,80.30000305176
+"Austin-Round Rock-Georgetown, TX",Very Low,77.09999847412
+"Austin-Round Rock-Georgetown, TX",Low,78.80000305176
+"Austin-Round Rock-Georgetown, TX",Moderate,79.19999694824
+"Austin-Round Rock-Georgetown, TX",High,80.80000305176
+"Austin-Round Rock-Georgetown, TX",Very High,81.40000152588
+"Bakersfield, CA",Very Low,74.80000305176
+"Bakersfield, CA",Low,75.80000305176
+"Bakersfield, CA",Moderate,77.09999847412
+"Bakersfield, CA",High,78.19999694824
+"Bakersfield, CA",Very High,79.09999847412
+"Baltimore-Columbia-Towson, MD",Very Low,72.50000000000
+"Baltimore-Columbia-Towson, MD",Low,76.90000152588
+"Baltimore-Columbia-Towson, MD",Moderate,79.00000000000
+"Baltimore-Columbia-Towson, MD",High,80.00000000000
+"Baltimore-Columbia-Towson, MD",Very High,81.59999847412
+"Baton Rouge, LA",Very Low,71.80000305176
+"Baton Rouge, LA",Low,75.19999694824
+"Baton Rouge, LA",Moderate,76.90000152588
+"Baton Rouge, LA",High,78.50000000000
+"Baton Rouge, LA",Very High,80.40000152588
+"Birmingham-Hoover, AL",Very Low,71.50000000000
+"Birmingham-Hoover, AL",Low,74.40000152588
+"Birmingham-Hoover, AL",Moderate,74.90000152588
+"Birmingham-Hoover, AL",High,78.00000000000
+"Birmingham-Hoover, AL",Very High,81.09999847412
+"Boise City, ID",Very Low,77.19999694824
+"Boise City, ID",Low,80.40000152588
+"Boise City, ID",Moderate,80.69999694824
+"Boise City, ID",High,80.59999847412
+"Boise City, ID",Very High,82.50000000000
+"Boston-Cambridge-Newton, MA-NH",Very Low,78.59999847412
+"Boston-Cambridge-Newton, MA-NH",Low,79.50000000000
+"Boston-Cambridge-Newton, MA-NH",Moderate,81.09999847412
+"Boston-Cambridge-Newton, MA-NH",High,81.80000305176
+"Boston-Cambridge-Newton, MA-NH",Very High,83.90000152588
+"Bridgeport-Stamford-Norwalk, CT",Very Low,77.50000000000
+"Bridgeport-Stamford-Norwalk, CT",Low,81.00000000000
+"Bridgeport-Stamford-Norwalk, CT",Moderate,82.09999847412
+"Bridgeport-Stamford-Norwalk, CT",High,83.59999847412
+"Bridgeport-Stamford-Norwalk, CT",Very High,84.00000000000
+"Brownsville-Harlingen, TX",Very Low,77.50000000000
+"Brownsville-Harlingen, TX",Low,77.19999694824
+"Brownsville-Harlingen, TX",Moderate,77.19999694824
+"Brownsville-Harlingen, TX",High,80.30000305176
+"Brownsville-Harlingen, TX",Very High,84.50000000000
+"Buffalo-Cheektowaga, NY",Very Low,72.69999694824
+"Buffalo-Cheektowaga, NY",Low,76.50000000000
+"Buffalo-Cheektowaga, NY",Moderate,79.09999847412
+"Buffalo-Cheektowaga, NY",High,80.59999847412
+"Buffalo-Cheektowaga, NY",Very High,81.30000305176
+"Cape Coral-Fort Myers, FL",Very Low,75.09999847412
+"Cape Coral-Fort Myers, FL",Low,77.19999694824
+"Cape Coral-Fort Myers, FL",Moderate,78.69999694824
+"Cape Coral-Fort Myers, FL",High,79.19999694824
+"Cape Coral-Fort Myers, FL",Very High,80.09999847412
+"Charleston-North Charleston, SC",Very Low,73.69999694824
+"Charleston-North Charleston, SC",Low,75.50000000000
+"Charleston-North Charleston, SC",Moderate,77.90000152588
+"Charleston-North Charleston, SC",High,80.09999847412
+"Charleston-North Charleston, SC",Very High,81.40000152588
+"Charlotte-Concord-Gastonia, NC-SC",Very Low,74.19999694824
+"Charlotte-Concord-Gastonia, NC-SC",Low,75.80000305176
+"Charlotte-Concord-Gastonia, NC-SC",Moderate,77.80000305176
+"Charlotte-Concord-Gastonia, NC-SC",High,79.90000152588
+"Charlotte-Concord-Gastonia, NC-SC",Very High,81.59999847412
+"Chicago-Naperville-Elgin, IL-IN-WI",Very Low,75.19999694824
+"Chicago-Naperville-Elgin, IL-IN-WI",Low,77.90000152588
+"Chicago-Naperville-Elgin, IL-IN-WI",Moderate,79.09999847412
+"Chicago-Naperville-Elgin, IL-IN-WI",High,80.59999847412
+"Chicago-Naperville-Elgin, IL-IN-WI",Very High,81.90000152588
+"Cincinnati, OH-KY-IN",Very Low,72.40000152588
+"Cincinnati, OH-KY-IN",Low,75.69999694824
+"Cincinnati, OH-KY-IN",Moderate,78.00000000000
+"Cincinnati, OH-KY-IN",High,79.90000152588
+"Cincinnati, OH-KY-IN",Very High,81.59999847412
+"Cleveland-Elyria, OH",Very Low,72.30000305176
+"Cleveland-Elyria, OH",Low,76.00000000000
+"Cleveland-Elyria, OH",Moderate,78.00000000000
+"Cleveland-Elyria, OH",High,80.19999694824
+"Cleveland-Elyria, OH",Very High,81.80000305176
+"Colorado Springs, CO",Very Low,75.80000305176
+"Colorado Springs, CO",Low,77.80000305176
+"Colorado Springs, CO",Moderate,80.30000305176
+"Colorado Springs, CO",High,81.80000305176
+"Colorado Springs, CO",Very High,82.40000152588
+"Columbia, SC",Very Low,74.40000152588
+"Columbia, SC",Low,75.30000305176
+"Columbia, SC",Moderate,78.50000000000
+"Columbia, SC",High,78.69999694824
+"Columbia, SC",Very High,80.69999694824
+"Columbus, OH",Very Low,72.40000152588
+"Columbus, OH",Low,76.30000305176
+"Columbus, OH",Moderate,78.40000152588
+"Columbus, OH",High,80.30000305176
+"Columbus, OH",Very High,80.90000152588
+"Dallas-Fort Worth-Arlington, TX",Very Low,75.50000000000
+"Dallas-Fort Worth-Arlington, TX",Low,77.00000000000
+"Dallas-Fort Worth-Arlington, TX",Moderate,78.19999694824
+"Dallas-Fort Worth-Arlington, TX",High,79.50000000000
+"Dallas-Fort Worth-Arlington, TX",Very High,80.90000152588
+"Dayton-Kettering, OH",Very Low,70.80000305176
+"Dayton-Kettering, OH",Low,75.00000000000
+"Dayton-Kettering, OH",Moderate,77.90000152588
+"Dayton-Kettering, OH",High,78.90000152588
+"Dayton-Kettering, OH",Very High,80.90000152588
+"Denver-Aurora-Lakewood, CO",Very Low,76.80000305176
+"Denver-Aurora-Lakewood, CO",Low,78.40000152588
+"Denver-Aurora-Lakewood, CO",Moderate,79.80000305176
+"Denver-Aurora-Lakewood, CO",High,81.30000305176
+"Denver-Aurora-Lakewood, CO",Very High,82.19999694824
+"Des Moines-West Des Moines, IA",Very Low,75.69999694824
+"Des Moines-West Des Moines, IA",Low,79.09999847412
+"Des Moines-West Des Moines, IA",Moderate,80.50000000000
+"Des Moines-West Des Moines, IA",High,80.80000305176
+"Des Moines-West Des Moines, IA",Very High,81.30000305176
+"Detroit-Warren-Dearborn, MI",Very Low,72.00000000000
+"Detroit-Warren-Dearborn, MI",Low,74.69999694824
+"Detroit-Warren-Dearborn, MI",Moderate,77.50000000000
+"Detroit-Warren-Dearborn, MI",High,79.59999847412
+"Detroit-Warren-Dearborn, MI",Very High,81.59999847412
+"Durham-Chapel Hill, NC",Very Low,76.19999694824
+"Durham-Chapel Hill, NC",Low,78.59999847412
+"Durham-Chapel Hill, NC",Moderate,78.59999847412
+"Durham-Chapel Hill, NC",High,80.69999694824
+"Durham-Chapel Hill, NC",Very High,80.69999694824
+"El Paso, TX",Very Low,77.90000152588
+"El Paso, TX",Low,77.00000000000
+"El Paso, TX",Moderate,78.59999847412
+"El Paso, TX",High,80.09999847412
+"El Paso, TX",Very High,81.80000305176
+"Fayetteville, NC",Very Low,73.69999694824
+"Fayetteville, NC",Low,75.80000305176
+"Fayetteville, NC",Moderate,76.00000000000
+"Fayetteville, NC",High,76.80000305176
+"Fayetteville, NC",Very High,77.50000000000
+"Fayetteville-Springdale-Rogers, AR",Very Low,76.50000000000
+"Fayetteville-Springdale-Rogers, AR",Low,76.80000305176
+"Fayetteville-Springdale-Rogers, AR",Moderate,77.50000000000
+"Fayetteville-Springdale-Rogers, AR",High,78.30000305176
+"Fayetteville-Springdale-Rogers, AR",Very High,79.19999694824
+"Fresno, CA",Very Low,76.69999694824
+"Fresno, CA",Low,76.80000305176
+"Fresno, CA",Moderate,78.50000000000
+"Fresno, CA",High,79.59999847412
+"Fresno, CA",Very High,80.90000152588
+"Grand Rapids-Kentwood, MI",Very Low,77.09999847412
+"Grand Rapids-Kentwood, MI",Low,78.50000000000
+"Grand Rapids-Kentwood, MI",Moderate,80.00000000000
+"Grand Rapids-Kentwood, MI",High,81.80000305176
+"Grand Rapids-Kentwood, MI",Very High,82.19999694824
+"Greensboro-High Point, NC",Very Low,73.09999847412
+"Greensboro-High Point, NC",Low,76.30000305176
+"Greensboro-High Point, NC",Moderate,77.19999694824
+"Greensboro-High Point, NC",High,79.50000000000
+"Greensboro-High Point, NC",Very High,81.30000305176
+"Greenville-Anderson, SC",Very Low,73.59999847412
+"Greenville-Anderson, SC",Low,75.40000152588
+"Greenville-Anderson, SC",Moderate,76.90000152588
+"Greenville-Anderson, SC",High,80.00000000000
+"Greenville-Anderson, SC",Very High,81.19999694824
+"Hartford-East Hartford-Middletown, CT",Very Low,75.80000305176
+"Hartford-East Hartford-Middletown, CT",Low,79.19999694824
+"Hartford-East Hartford-Middletown, CT",Moderate,80.59999847412
+"Hartford-East Hartford-Middletown, CT",High,81.69999694824
+"Hartford-East Hartford-Middletown, CT",Very High,82.09999847412
+"Houston-The Woodlands-Sugar Land, TX",Very Low,75.90000152588
+"Houston-The Woodlands-Sugar Land, TX",Low,76.90000152588
+"Houston-The Woodlands-Sugar Land, TX",Moderate,78.30000305176
+"Houston-The Woodlands-Sugar Land, TX",High,79.80000305176
+"Houston-The Woodlands-Sugar Land, TX",Very High,80.90000152588
+"Indianapolis-Carmel-Anderson, IN",Very Low,72.30000305176
+"Indianapolis-Carmel-Anderson, IN",Low,75.69999694824
+"Indianapolis-Carmel-Anderson, IN",Moderate,78.69999694824
+"Indianapolis-Carmel-Anderson, IN",High,80.59999847412
+"Indianapolis-Carmel-Anderson, IN",Very High,80.69999694824
+"Jackson, MS",Very Low,71.90000152588
+"Jackson, MS",Low,74.69999694824
+"Jackson, MS",Moderate,77.30000305176
+"Jackson, MS",High,78.59999847412
+"Jackson, MS",Very High,80.90000152588
+"Jacksonville, FL",Very Low,73.50000000000
+"Jacksonville, FL",Low,75.80000305176
+"Jacksonville, FL",Moderate,77.50000000000
+"Jacksonville, FL",High,79.00000000000
+"Jacksonville, FL",Very High,81.30000305176
+"Kansas City, MO-KS",Very Low,73.59999847412
+"Kansas City, MO-KS",Low,76.90000152588
+"Kansas City, MO-KS",Moderate,78.59999847412
+"Kansas City, MO-KS",High,80.50000000000
+"Kansas City, MO-KS",Very High,81.50000000000
+"Knoxville, TN",Very Low,72.59999847412
+"Knoxville, TN",Low,75.00000000000
+"Knoxville, TN",Moderate,77.09999847412
+"Knoxville, TN",High,77.69999694824
+"Knoxville, TN",Very High,80.50000000000
+"Lakeland-Winter Haven, FL",Very Low,74.00000000000
+"Lakeland-Winter Haven, FL",Low,75.50000000000
+"Lakeland-Winter Haven, FL",Moderate,78.00000000000
+"Lakeland-Winter Haven, FL",High,80.19999694824
+"Lakeland-Winter Haven, FL",Very High,79.50000000000
+"Las Vegas-Henderson-Paradise, NV",Very Low,75.30000305176
+"Las Vegas-Henderson-Paradise, NV",Low,76.50000000000
+"Las Vegas-Henderson-Paradise, NV",Moderate,77.90000152588
+"Las Vegas-Henderson-Paradise, NV",High,78.90000152588
+"Las Vegas-Henderson-Paradise, NV",Very High,80.00000000000
+"Little Rock-North Little Rock-Conway, AR",Very Low,72.00000000000
+"Little Rock-North Little Rock-Conway, AR",Low,74.30000305176
+"Little Rock-North Little Rock-Conway, AR",Moderate,76.80000305176
+"Little Rock-North Little Rock-Conway, AR",High,77.90000152588
+"Little Rock-North Little Rock-Conway, AR",Very High,80.30000305176
+"Los Angeles-Long Beach-Anaheim, CA",Very Low,77.30000305176
+"Los Angeles-Long Beach-Anaheim, CA",Low,79.09999847412
+"Los Angeles-Long Beach-Anaheim, CA",Moderate,80.50000000000
+"Los Angeles-Long Beach-Anaheim, CA",High,81.50000000000
+"Los Angeles-Long Beach-Anaheim, CA",Very High,83.00000000000
+"Louisville/Jefferson County, KY-IN",Very Low,72.50000000000
+"Louisville/Jefferson County, KY-IN",Low,74.90000152588
+"Louisville/Jefferson County, KY-IN",Moderate,77.09999847412
+"Louisville/Jefferson County, KY-IN",High,78.69999694824
+"Louisville/Jefferson County, KY-IN",Very High,81.50000000000
+"Madison, WI",Very Low,
+"Madison, WI",Low,
+"Madison, WI",Moderate,
+"Madison, WI",High,
+"Madison, WI",Very High,
+"McAllen-Edinburg-Mission, TX",Very Low,79.59999847412
+"McAllen-Edinburg-Mission, TX",Low,79.30000305176
+"McAllen-Edinburg-Mission, TX",Moderate,79.09999847412
+"McAllen-Edinburg-Mission, TX",High,80.30000305176
+"McAllen-Edinburg-Mission, TX",Very High,81.90000152588
+"Memphis, TN-MS-AR",Very Low,71.19999694824
+"Memphis, TN-MS-AR",Low,74.09999847412
+"Memphis, TN-MS-AR",Moderate,75.90000152588
+"Memphis, TN-MS-AR",High,78.09999847412
+"Memphis, TN-MS-AR",Very High,80.00000000000
+"Miami-Fort Lauderdale-Pompano Beach, FL",Very Low,76.00000000000
+"Miami-Fort Lauderdale-Pompano Beach, FL",Low,79.09999847412
+"Miami-Fort Lauderdale-Pompano Beach, FL",Moderate,79.69999694824
+"Miami-Fort Lauderdale-Pompano Beach, FL",High,81.30000305176
+"Miami-Fort Lauderdale-Pompano Beach, FL",Very High,83.09999847412
+"Milwaukee-Waukesha, WI",Very Low,
+"Milwaukee-Waukesha, WI",Low,
+"Milwaukee-Waukesha, WI",Moderate,
+"Milwaukee-Waukesha, WI",High,
+"Milwaukee-Waukesha, WI",Very High,
+"Minneapolis-St. Paul-Bloomington, MN-WI",Very Low,76.80000305176
+"Minneapolis-St. Paul-Bloomington, MN-WI",Low,79.90000152588
+"Minneapolis-St. Paul-Bloomington, MN-WI",Moderate,80.59999847412
+"Minneapolis-St. Paul-Bloomington, MN-WI",High,81.80000305176
+"Minneapolis-St. Paul-Bloomington, MN-WI",Very High,82.90000152588
+"Modesto, CA",Very Low,76.40000152588
+"Modesto, CA",Low,77.40000152588
+"Modesto, CA",Moderate,77.59999847412
+"Modesto, CA",High,78.80000305176
+"Modesto, CA",Very High,80.09999847412
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Very Low,73.90000152588
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Low,75.59999847412
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Moderate,77.40000152588
+"Nashville-Davidson--Murfreesboro--Franklin, TN",High,79.69999694824
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Very High,81.00000000000
+"New Haven-Milford, CT",Very Low,77.19999694824
+"New Haven-Milford, CT",Low,76.50000000000
+"New Haven-Milford, CT",Moderate,79.50000000000
+"New Haven-Milford, CT",High,80.59999847412
+"New Haven-Milford, CT",Very High,82.59999847412
+"New Orleans-Metairie, LA",Very Low,72.69999694824
+"New Orleans-Metairie, LA",Low,74.40000152588
+"New Orleans-Metairie, LA",Moderate,76.69999694824
+"New Orleans-Metairie, LA",High,78.19999694824
+"New Orleans-Metairie, LA",Very High,80.50000000000
+"New York-Newark-Jersey City, NY-NJ-PA",Very Low,76.80000305176
+"New York-Newark-Jersey City, NY-NJ-PA",Low,79.80000305176
+"New York-Newark-Jersey City, NY-NJ-PA",Moderate,80.69999694824
+"New York-Newark-Jersey City, NY-NJ-PA",High,81.40000152588
+"New York-Newark-Jersey City, NY-NJ-PA",Very High,83.09999847412
+"North Port-Sarasota-Bradenton, FL",Very Low,74.90000152588
+"North Port-Sarasota-Bradenton, FL",Low,79.09999847412
+"North Port-Sarasota-Bradenton, FL",Moderate,78.59999847412
+"North Port-Sarasota-Bradenton, FL",High,81.00000000000
+"North Port-Sarasota-Bradenton, FL",Very High,83.50000000000
+"Ogden-Clearfield, UT",Very Low,76.19999694824
+"Ogden-Clearfield, UT",Low,78.00000000000
+"Ogden-Clearfield, UT",Moderate,80.59999847412
+"Ogden-Clearfield, UT",High,80.30000305176
+"Ogden-Clearfield, UT",Very High,82.50000000000
+"Oklahoma City, OK",Very Low,72.40000152588
+"Oklahoma City, OK",Low,75.40000152588
+"Oklahoma City, OK",Moderate,76.40000152588
+"Oklahoma City, OK",High,79.19999694824
+"Oklahoma City, OK",Very High,80.90000152588
+"Omaha-Council Bluffs, NE-IA",Very Low,74.09999847412
+"Omaha-Council Bluffs, NE-IA",Low,77.59999847412
+"Omaha-Council Bluffs, NE-IA",Moderate,79.80000305176
+"Omaha-Council Bluffs, NE-IA",High,80.59999847412
+"Omaha-Council Bluffs, NE-IA",Very High,81.09999847412
+"Orlando-Kissimmee-Sanford, FL",Very Low,76.00000000000
+"Orlando-Kissimmee-Sanford, FL",Low,78.30000305176
+"Orlando-Kissimmee-Sanford, FL",Moderate,79.30000305176
+"Orlando-Kissimmee-Sanford, FL",High,80.30000305176
+"Orlando-Kissimmee-Sanford, FL",Very High,81.40000152588
+"Oxnard-Thousand Oaks-Ventura, CA",Very Low,78.30000305176
+"Oxnard-Thousand Oaks-Ventura, CA",Low,80.40000152588
+"Oxnard-Thousand Oaks-Ventura, CA",Moderate,80.50000000000
+"Oxnard-Thousand Oaks-Ventura, CA",High,82.09999847412
+"Oxnard-Thousand Oaks-Ventura, CA",Very High,82.80000305176
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Very Low,73.30000305176
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Low,76.30000305176
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Moderate,78.00000000000
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",High,80.40000152588
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Very High,81.80000305176
+"Phoenix-Mesa-Chandler, AZ",Very Low,75.90000152588
+"Phoenix-Mesa-Chandler, AZ",Low,77.19999694824
+"Phoenix-Mesa-Chandler, AZ",Moderate,78.69999694824
+"Phoenix-Mesa-Chandler, AZ",High,79.90000152588
+"Phoenix-Mesa-Chandler, AZ",Very High,81.09999847412
+"Pittsburgh, PA",Very Low,73.59999847412
+"Pittsburgh, PA",Low,77.40000152588
+"Pittsburgh, PA",Moderate,78.59999847412
+"Pittsburgh, PA",High,80.30000305176
+"Pittsburgh, PA",Very High,81.19999694824
+"Portland-Vancouver-Hillsboro, OR-WA",Very Low,77.19999694824
+"Portland-Vancouver-Hillsboro, OR-WA",Low,78.59999847412
+"Portland-Vancouver-Hillsboro, OR-WA",Moderate,79.90000152588
+"Portland-Vancouver-Hillsboro, OR-WA",High,81.19999694824
+"Portland-Vancouver-Hillsboro, OR-WA",Very High,82.00000000000
+"Poughkeepsie-Newburgh-Middletown, NY",Very Low,75.00000000000
+"Poughkeepsie-Newburgh-Middletown, NY",Low,79.50000000000
+"Poughkeepsie-Newburgh-Middletown, NY",Moderate,80.40000152588
+"Poughkeepsie-Newburgh-Middletown, NY",High,81.09999847412
+"Poughkeepsie-Newburgh-Middletown, NY",Very High,82.09999847412
+"Providence-Warwick, RI-MA",Very Low,76.40000152588
+"Providence-Warwick, RI-MA",Low,77.80000305176
+"Providence-Warwick, RI-MA",Moderate,78.90000152588
+"Providence-Warwick, RI-MA",High,80.09999847412
+"Providence-Warwick, RI-MA",Very High,81.59999847412
+"Provo-Orem, UT",Very Low,78.00000000000
+"Provo-Orem, UT",Low,79.40000152588
+"Provo-Orem, UT",Moderate,81.00000000000
+"Provo-Orem, UT",High,80.90000152588
+"Provo-Orem, UT",Very High,81.09999847412
+"Raleigh-Cary, NC",Very Low,75.90000152588
+"Raleigh-Cary, NC",Low,78.69999694824
+"Raleigh-Cary, NC",Moderate,80.30000305176
+"Raleigh-Cary, NC",High,81.19999694824
+"Raleigh-Cary, NC",Very High,80.90000152588
+"Richmond, VA",Very Low,74.00000000000
+"Richmond, VA",Low,76.30000305176
+"Richmond, VA",Moderate,78.30000305176
+"Richmond, VA",High,79.80000305176
+"Richmond, VA",Very High,80.69999694824
+"Riverside-San Bernardino-Ontario, CA",Very Low,75.40000152588
+"Riverside-San Bernardino-Ontario, CA",Low,77.19999694824
+"Riverside-San Bernardino-Ontario, CA",Moderate,78.50000000000
+"Riverside-San Bernardino-Ontario, CA",High,80.09999847412
+"Riverside-San Bernardino-Ontario, CA",Very High,81.59999847412
+"Rochester, NY",Very Low,75.59999847412
+"Rochester, NY",Low,80.00000000000
+"Rochester, NY",Moderate,81.09999847412
+"Rochester, NY",High,82.19999694824
+"Rochester, NY",Very High,84.19999694824
+"Sacramento-Roseville-Folsom, CA",Very Low,75.80000305176
+"Sacramento-Roseville-Folsom, CA",Low,77.80000305176
+"Sacramento-Roseville-Folsom, CA",Moderate,80.09999847412
+"Sacramento-Roseville-Folsom, CA",High,80.90000152588
+"Sacramento-Roseville-Folsom, CA",Very High,81.69999694824
+"Salt Lake City, UT",Very Low,77.30000305176
+"Salt Lake City, UT",Low,78.09999847412
+"Salt Lake City, UT",Moderate,79.19999694824
+"Salt Lake City, UT",High,80.80000305176
+"Salt Lake City, UT",Very High,81.19999694824
+"San Antonio-New Braunfels, TX",Very Low,75.30000305176
+"San Antonio-New Braunfels, TX",Low,77.40000152588
+"San Antonio-New Braunfels, TX",Moderate,78.40000152588
+"San Antonio-New Braunfels, TX",High,79.69999694824
+"San Antonio-New Braunfels, TX",Very High,81.00000000000
+"San Diego-Chula Vista-Carlsbad, CA",Very Low,78.30000305176
+"San Diego-Chula Vista-Carlsbad, CA",Low,79.69999694824
+"San Diego-Chula Vista-Carlsbad, CA",Moderate,80.59999847412
+"San Diego-Chula Vista-Carlsbad, CA",High,81.90000152588
+"San Diego-Chula Vista-Carlsbad, CA",Very High,82.50000000000
+"San Francisco-Oakland-Berkeley, CA",Very Low,77.50000000000
+"San Francisco-Oakland-Berkeley, CA",Low,80.40000152588
+"San Francisco-Oakland-Berkeley, CA",Moderate,81.59999847412
+"San Francisco-Oakland-Berkeley, CA",High,82.90000152588
+"San Francisco-Oakland-Berkeley, CA",Very High,84.09999847412
+"San Jose-Sunnyvale-Santa Clara, CA",Very Low,81.30000305176
+"San Jose-Sunnyvale-Santa Clara, CA",Low,81.40000152588
+"San Jose-Sunnyvale-Santa Clara, CA",Moderate,82.19999694824
+"San Jose-Sunnyvale-Santa Clara, CA",High,83.00000000000
+"San Jose-Sunnyvale-Santa Clara, CA",Very High,84.40000152588
+"Seattle-Tacoma-Bellevue, WA",Very Low,77.59999847412
+"Seattle-Tacoma-Bellevue, WA",Low,79.19999694824
+"Seattle-Tacoma-Bellevue, WA",Moderate,79.80000305176
+"Seattle-Tacoma-Bellevue, WA",High,81.09999847412
+"Seattle-Tacoma-Bellevue, WA",Very High,83.19999694824
+"Springfield, MA",Very Low,75.80000305176
+"Springfield, MA",Low,77.69999694824
+"Springfield, MA",Moderate,79.69999694824
+"Springfield, MA",High,81.09999847412
+"Springfield, MA",Very High,82.50000000000
+"St. Louis, MO-IL",Very Low,73.00000000000
+"St. Louis, MO-IL",Low,76.30000305176
+"St. Louis, MO-IL",Moderate,78.30000305176
+"St. Louis, MO-IL",High,80.19999694824
+"St. Louis, MO-IL",Very High,82.09999847412
+"Stockton, CA",Very Low,75.09999847412
+"Stockton, CA",Low,76.19999694824
+"Stockton, CA",Moderate,78.30000305176
+"Stockton, CA",High,80.00000000000
+"Stockton, CA",Very High,80.50000000000
+"Syracuse, NY",Very Low,75.59999847412
+"Syracuse, NY",Low,79.19999694824
+"Syracuse, NY",Moderate,80.19999694824
+"Syracuse, NY",High,81.30000305176
+"Syracuse, NY",Very High,82.69999694824
+"Tampa-St. Petersburg-Clearwater, FL",Very Low,73.80000305176
+"Tampa-St. Petersburg-Clearwater, FL",Low,76.09999847412
+"Tampa-St. Petersburg-Clearwater, FL",Moderate,78.40000152588
+"Tampa-St. Petersburg-Clearwater, FL",High,79.40000152588
+"Tampa-St. Petersburg-Clearwater, FL",Very High,80.69999694824
+"Toledo, OH",Very Low,70.90000152588
+"Toledo, OH",Low,76.30000305176
+"Toledo, OH",Moderate,77.59999847412
+"Toledo, OH",High,78.80000305176
+"Toledo, OH",Very High,80.40000152588
+"Tucson, AZ",Very Low,76.09999847412
+"Tucson, AZ",Low,75.69999694824
+"Tucson, AZ",Moderate,78.59999847412
+"Tucson, AZ",High,79.90000152588
+"Tucson, AZ",Very High,81.90000152588
+"Tulsa, OK",Very Low,71.90000152588
+"Tulsa, OK",Low,74.69999694824
+"Tulsa, OK",Moderate,76.30000305176
+"Tulsa, OK",High,79.00000000000
+"Tulsa, OK",Very High,80.00000000000
+"Urban Honolulu, HI",Very Low,76.80000305176
+"Urban Honolulu, HI",Low,80.19999694824
+"Urban Honolulu, HI",Moderate,80.19999694824
+"Urban Honolulu, HI",High,81.69999694824
+"Urban Honolulu, HI",Very High,83.40000152588
+"Virginia Beach-Norfolk-Newport News, VA-NC",Very Low,72.90000152588
+"Virginia Beach-Norfolk-Newport News, VA-NC",Low,76.50000000000
+"Virginia Beach-Norfolk-Newport News, VA-NC",Moderate,77.19999694824
+"Virginia Beach-Norfolk-Newport News, VA-NC",High,79.09999847412
+"Virginia Beach-Norfolk-Newport News, VA-NC",Very High,80.69999694824
+"Visalia, CA",Very Low,77.19999694824
+"Visalia, CA",Low,77.59999847412
+"Visalia, CA",Moderate,76.19999694824
+"Visalia, CA",High,78.00000000000
+"Visalia, CA",Very High,81.40000152588
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Very Low,77.90000152588
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Low,80.09999847412
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Moderate,80.40000152588
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",High,81.40000152588
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Very High,83.50000000000
+"Wichita, KS",Very Low,73.40000152588
+"Wichita, KS",Low,74.90000152588
+"Wichita, KS",Moderate,78.90000152588
+"Wichita, KS",High,79.90000152588
+"Wichita, KS",Very High,82.00000000000
+"Winston-Salem, NC",Very Low,74.30000305176
+"Winston-Salem, NC",Low,75.80000305176
+"Winston-Salem, NC",Moderate,76.59999847412
+"Winston-Salem, NC",High,78.19999694824
+"Winston-Salem, NC",Very High,81.30000305176
+"Worcester, MA-CT",Very Low,77.40000152588
+"Worcester, MA-CT",Low,79.09999847412
+"Worcester, MA-CT",Moderate,80.40000152588
+"Worcester, MA-CT",High,81.00000000000
+"Worcester, MA-CT",Very High,82.09999847412
