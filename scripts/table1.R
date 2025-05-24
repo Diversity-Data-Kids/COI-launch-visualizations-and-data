@@ -1,16 +1,21 @@
-################################################################################
+#-------------------------------------------------------------------------------
+# Header
+#-------------------------------------------------------------------------------
+# Description: need metro median scores by race and metro child pop by race,
+#              and for the 100 largest metros combined
+#
+# NOTES: Cannot do anything without metro level data? Check COI db vs COI30_2025
 
-# Description: metro normed opportunity levels by race for 100 largest metros and all years
-
+# remove environment
+rm(list=ls()); gc()
 
 # libraries
 library(RMySQL)
 library(tidyverse)
 
-################################################################################
-rm(list=ls()); gc()
-################################################################################
-
+#-------------------------------------------------------------------------------
+# Connection
+#-------------------------------------------------------------------------------
 # connect to mysql database at BU as DDK_dba (database administrator)
 con <- dbConnect(
   RMySQL::MySQL(),
@@ -19,18 +24,32 @@ con <- dbConnect(
   user='DDK_dba',
   password='3RZc325sF472')
 
-# show privileges of DDK_dba
-dbGetQuery(con, "SHOW PRIVILEGES;")
 
-
+#-------------------------------------------------------------------------------
+# check tables in db
+#-------------------------------------------------------------------------------
 dbGetQuery(con, "SHOW DATABASES;")
 dbExecute( con, "USE COI30_2025;")
 dbGetQuery(con, "SHOW TABLES;")
 
 
-dt <- RMariaDB::dbGetQuery(con, "SELECT * FROM COI30_TRACT_INDEX_20;")
-
-
+#-------------------------------------------------------------------------------
+# load table and disconnect from db
+#-------------------------------------------------------------------------------
+dt1 <- RMariaDB::dbGetQuery(con, "SELECT * FROM COI30_TRACT_INDEX_20;")
+dt2 <- RMariaDB::dbGetQuery(con, "SELECT * FROM COI30_TRACT_POP_20;")
 dbDisconnect(con);rm(con)
+
+
+#-------------------------------------------------------------------------------
+# generate new table
+#-------------------------------------------------------------------------------
+# columns: metro_name, tot_score,	white_score, black_score,api_score, hisp_score
+#                      total,	    white,	     black,	     api,	      hisp
+
+# select columns
+dt <- select(dt, c(geoid20,year,c5_COI_met))
+
+
 
 
