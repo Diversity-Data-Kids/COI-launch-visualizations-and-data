@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Header
 #-------------------------------------------------------------------------------
-# Description: metro normed opportunity levels by race for 100 largest metros and all years
+# Description: nationally normed COI levels, nationally normed for the 100 largest metro areas
 
 # clear environment
 rm(list=ls()); gc()
@@ -29,7 +29,7 @@ geo <- unique(geo)
 rm(HOME, SQL_load)
 
 # metro normed metro percentages
-metro_percentages <- fread("C:/Users/bdevoe/Desktop/SQL/METROS/COI_20_metros_met_percentages/COI_20_metros_met_percentages.csv")
+metro_percentages <- fread("C:/Users/bdevoe/Desktop/SQL/METROS/COI_20_metros_nat_percentages/COI_20_metros_nat_percentages.csv")
 
 # merge data
 metro_percentages <- left_join(metro_percentages, geo)
@@ -43,9 +43,18 @@ rm(geo)
 # filter rows to top 100 metros
 metro_percentages <- filter(metro_percentages, in100 == 1)
 
+# filter rows to total
+metro_percentages <- filter(metro_percentages, group == "total")
+
+# filter rows to 2023
+metro_percentages <- filter(metro_percentages, year == "2023")
+
+# select columns
+metro_percentages <- select(metro_percentages, c(metro_name, year, group, high, low, missing, moderate, very_high, very_low, group_lbl, normed, in100))
 
 #-------------------------------------------------------------------------------
 # save
 #-------------------------------------------------------------------------------
 
-fwrite(metro_percentages, file = "data/output/table1.csv")
+fwrite(metro_percentages, file = "data/output/table3.csv")
+

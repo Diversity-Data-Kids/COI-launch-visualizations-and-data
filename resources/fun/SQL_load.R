@@ -57,11 +57,14 @@ SQL_load <- function(database  = "DDK",
   # recode the filter parameter to a string for SQL query
   if(!is.null(filter)){filter <- paste(filter, collapse=" AND ")}
 
+  # Check if HOME vector exists
+  if (!exists("HOME")) stop("HOME vector does not exist in global environment. Please set HOME to Git root directory.")
+
   ##############################################################################
 
   ### Save to folder and check if table exists
   # Set up save-to folder if it doesn't already exists
-  SAVE_TO <- paste0("data/raw/", database)
+  SAVE_TO <- paste0(HOME, "/data/source_data/sql/", database)
   if (dir.exists(SAVE_TO)==F) dir.create(SAVE_TO, recursive = T)
 
   # file and dictionary
@@ -100,14 +103,14 @@ SQL_load <- function(database  = "DDK",
     print(paste("Connecting to SQL database"))
 
     # Connect to Brandeis office SQL database
-    # con <- RMariaDB::dbConnect(
-    #   RMariaDB::MariaDB(),
-    #   host='129.64.58.140',
-    #   port=3306,
-    #   user='dba1',
-    #   password='Password123$')
+    # con <- dbConnect(MariaDB(), host = "129.64.58.140", port = 3306, user = "DDK_read_only", password = "spAce-cat-algebra-7890!$")
 
-    con <- dbConnect(MariaDB(), host = "129.64.58.140", port = 3306, user = "DDK_read_only", password = "spAce-cat-algebra-7890!$")
+    # Connect to BU
+    con <- dbConnect(MariaDB(),
+                     host = "buaws-aws-cf-mysql-prod2.cenrervr4svx.us-east-2.rds.amazonaws.com",
+                     port = 3306,
+                     user = Sys.getenv("DDK_read_only"),
+                     password = Sys.getenv("DDK_read_only_pass"))
 
     # check if database exists and remove connection and throw error if it does not
     db_list <- RMariaDB::dbGetQuery(con, "SHOW DATABASES;")
