@@ -11,13 +11,12 @@
 # function list tables
 SQL_table_id_list <- function(database = "DDK"){
 
- # Connect to Brandeis office SQL database
-  con <- RMariaDB::dbConnect(
-    RMariaDB::MariaDB(),
-    host='129.64.58.140',
-    port=3306,
-    user='dba1',
-    password='Password123$')
+  # Connect to BU
+  con <- dbConnect(MariaDB(),
+                   host = "buaws-aws-cf-mysql-prod2.cenrervr4svx.us-east-2.rds.amazonaws.com",
+                   port = 3306,
+                   user = Sys.getenv("DDK_read_only"),
+                   password = Sys.getenv("DDK_read_only_pass"))
 
   # Connect to database
   RMariaDB::dbExecute(con, paste0("USE ", database, ";")) # Clemens: changed this to dbExecute

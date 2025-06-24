@@ -3,8 +3,6 @@
 #-------------------------------------------------------------------------------
 # Description: metro median score gaps across race and VL-VH
 
-#TODO: finish
-
 # clear environment
 rm(list=ls()); gc()
 
@@ -38,7 +36,6 @@ metro_medians <- left_join(metro_medians, geo)
 rm(geo)
 
 
-
 #-------------------------------------------------------------------------------
 # process data
 #-------------------------------------------------------------------------------
@@ -52,19 +49,59 @@ metro_medians <- filter(metro_medians, year == "2023")
 # filter out num_tracts
 metro_medians <- filter(metro_medians, group != "num_tracts")
 
-# select columns
-metro_medians <- select(metro_medians, c(metro_name, year, group, median_opp_score, normed))
+
+#-------------------------------------------------------------------------------
+# compute race/ethnicity gaps
+#-------------------------------------------------------------------------------
+
+# filter
+metro_medians_race_gaps <- filter(metro_medians, lbl %in% c("all"))
+
+# select
+metro_medians_race_gaps <- select(metro_medians_race_gaps, c(metro_name, year, lbl, group, median_opp_score, normed))
 
 # pivot wide
-metro_medians <- pivot_wider(metro_medians, names_from = group, values_from = median_opp_score)
+metro_medians_race_gaps <- pivot_wider(metro_medians_race_gaps, names_from = group, values_from = median_opp_score)
 
-# compute white gaps
-metro_medians$BW_gap   <- metro_medians$white - metro_medians$black
-metro_medians$AW_gap   <- metro_medians$white - metro_medians$asian
-metro_medians$ApiW_gap <- metro_medians$white - metro_medians$aian
-metro_medians$HW_gap   <- metro_medians$white - metro_medians$hisp
+# compute white - r/e gaps
+metro_medians_race_gaps$BW_gap   <- metro_medians_race_gaps$white - metro_medians_race_gaps$black
+metro_medians_race_gaps$AW_gap   <- metro_medians_race_gaps$white - metro_medians_race_gaps$asian
+metro_medians_race_gaps$ApiW_gap <- metro_medians_race_gaps$white - metro_medians_race_gaps$aian
+metro_medians_race_gaps$HW_gap   <- metro_medians_race_gaps$white - metro_medians_race_gaps$hisp
 
 
-#TODO: need VL and VH median score to compute gap
-#      I think we use opp_gap folder?
+#-------------------------------------------------------------------------------
+# compute overall opportunity gap
+#-------------------------------------------------------------------------------
+
+# filter
+metro_medians_oppgap <- filter(metro_medians, lbl %in% c("very_high", "very_low") & group == "total")
+
+# select
+metro_medians_oppgap <- select(metro_medians_oppgap, c(metro_name, year, lbl, median_opp_score, normed))
+
+# pivot wide
+metro_medians_oppgap <- pivot_wider(metro_medians_oppgap, names_from = lbl, values_from = median_opp_score)
+
+# set missing data to 0. NOTE: for certain the only NA is a result from pivoting
+#                              the lbl column. In the aggregation script a row is not
+#                              recorded when a value is zero.
+metro_medians_oppgap[is.na(metro_medians_oppgap)] <- 0
+
+# compute opp gap
+metro_medians_oppgap$overall_gap   <- metro_medians_oppgap$very_high - metro_medians_oppgap$very_low
+
+
+#-------------------------------------------------------------------------------
+# final processing and save
+#-------------------------------------------------------------------------------
+
+# merge race/ethnicity gap with overall gap
+metro_medians <- full_join(metro_medians_race_gaps, metro_medians_oppgap)
+rm(metro_medians_race_gaps, metro_medians_oppgap)
+
+# save
+fwrite(metro_medians, file = "data/output/table4.csv")
+
+
 
