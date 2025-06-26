@@ -23,10 +23,10 @@ HOME <- "C:/Users/bdevoe/Desktop/SQL/viz_data"
 
 
 # trying to find median income and outcome
-# tables_DDK <- SQL_table_id_list(database = "DDK")
-# tables_ACS <- SQL_table_id_list(database = "ACS")
-# tables_COI <- SQL_table_id_list(database = "COI")
-# tables_COI3_2025 <- SQL_table_id_list(database = "COI30_2025")
+tables_DDK <- SQL_table_id_list(database = "DDK")
+tables_ACS <- SQL_table_id_list(database = "ACS")
+tables_COI <- SQL_table_id_list(database = "COI")
+tables_COI3_2025 <- SQL_table_id_list(database = "COI30_2025")
 
 
 
@@ -36,7 +36,9 @@ HOME <- "C:/Users/bdevoe/Desktop/SQL/viz_data"
 #-------------------------------------------------------------------------------
 
 # load median household income
-mhe <- SQL_load(database = "ACS", table_id = "MHE1", overwrite = F, noisily = F)
+mhi <- SQL_load(database = "ACS", table_id = "MHE1", overwrite = F, noisily = F)
+# lifex <- SQL_load(database = "ACS", table_id )
+
 
 # load geo ids
 geo <- SQL_load(database = "COI30_2025", table_id = "COI30_TRACT_GEO_20", overwrite = F, noisily = F)
